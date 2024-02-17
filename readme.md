@@ -1,6 +1,7 @@
 # Remid
 ## Recenter your Python projects on a one terminal
 ![Remid logo](assets/logo.png)
+
 Remid is an terminal program in Python to run all of your projects who have the path registered on a file.
 
 To run it, you can use `remid` on Windows or `python remid.py` on other os.
